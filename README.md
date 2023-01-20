@@ -546,7 +546,8 @@ In this repo, you can find available solutions for a challenge.
     - #### Create a Javascript string
         scenario :
         ```python
-        In this exercise the existing console.log() statement logs the value of the variable text. The variable text has already been declared with an empty string – as indicated by the two single quotes.
+        In this exercise the existing console.log() statement logs the value of the variable text. 
+        The variable text has already been declared with an empty string – as indicated by the two single quotes.
         Fill in the string with some characters and run the code to see if the string is being logged.
         ```
         
@@ -566,8 +567,11 @@ In this repo, you can find available solutions for a challenge.
         scenario :
         ```python
         Here, we have declared 3 variables textOne, textTwo, and textThree. An empty string is assigned to all of them.
-        Do you see how in each case different symbols are used to create the string? All three of them are valid methods to create a JavaScript string.
-        Fill in all 3 strings with some characters and run the code to see if the values get logged.In this exercise the existing console.log() statement logs the value of the variable text. The variable text has already been declared with an empty string – as indicated by the two single quotes.
+        Do you see how in each case different symbols are used to create the string? 
+        All three of them are valid methods to create a JavaScript string.
+        Fill in all 3 strings with some characters and run the code to see if the values get logged.
+        In this exercise the existing console.log() statement logs the value of the variable text. 
+        The variable text has already been declared with an empty string – as indicated by the two single quotes.
         Fill in the string with some characters and run the code to see if the string is being logged.
         ```
         
@@ -588,7 +592,9 @@ In this repo, you can find available solutions for a challenge.
     - #### Connect Javascript strings 1
         scenario :
         ```python
-        After we have learnt how to create JavaScript strings, we will now connect 2 strings together. In the code below we use the Addition (+) operator to concatenate textOne and textTwo. The console.log() statement logs the resulting string. Currently, the result would be HelloWorld.
+        After we have learnt how to create JavaScript strings, we will now connect 2 strings together. 
+        In the code below we use the Addition (+) operator to concatenate textOne and textTwo. 
+        The console.log() statement logs the resulting string. Currently, the result would be HelloWorld.
         Change the code below so that the value of res is Hello World
         ```
         
@@ -612,7 +618,10 @@ In this repo, you can find available solutions for a challenge.
     - #### if statement - satisfy condition
         scenario :
         ```python
-        In this exercise we will work with our first if-statement. In the code below we declare a variable num with a value 0. Then, we have an if-statement. The if-statement consists of a condition – the part inside the parentheses – and some code inside a pair of curly braces. The code will assign the variable num a new value 1. But it will only run if the condition is met.
+        In this exercise we will work with our first if-statement. In the code below we declare a variable num with a value 0. 
+        Then, we have an if-statement. The if-statement consists of a condition – the part inside the parentheses – and 
+        some code inside a pair of curly braces. The code will assign the variable num a new value 
+        1. But it will only run if the condition is met.
         Adjust the condition such that the code inside the curly braces will execute and the console.log() statement logs true.
         ```
         
